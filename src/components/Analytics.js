@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from './Card';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, PieChart, Pie, Cell } from 'recharts';
 import { BarChart, Bar } from 'recharts';
+import { Users, TrendingUp, MessageSquare, ThumbsUp, Share2, Eye, BookOpen, Video, Star } from 'lucide-react';
  
 const Analytics = () => {
     const [selectedPeriod, setSelectedPeriod] = useState('month');
