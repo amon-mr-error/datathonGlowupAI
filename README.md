@@ -4,7 +4,7 @@ This project is focused on using machine learning and data analysis techniques t
 
 - **Frontend**: Built with React, displaying live, expired, and upcoming campaigns.
 - **ML Trial & Stats Analysis**: Jupyter Notebook files for data analysis, forecasting, and time series modeling of social media engagement metrics.
-- **Backend**: A MERN stack implementation for managing campaigns and handling API requests.
+- **Backend**: A MERN stack implementation for managing campaigns and handling API requests, including Vext LLM Model API.
 
 ---
 
