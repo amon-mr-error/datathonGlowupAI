@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/datathonGlowupAI/static/css/main.767c6437.css",
+    "main.js": "/datathonGlowupAI/static/js/main.f3f4640d.js",
+    "static/js/453.d855a71b.chunk.js": "/datathonGlowupAI/static/js/453.d855a71b.chunk.js",
+    "index.html": "/datathonGlowupAI/index.html",
+    "main.767c6437.css.map": "/datathonGlowupAI/static/css/main.767c6437.css.map",
+    "main.f3f4640d.js.map": "/datathonGlowupAI/static/js/main.f3f4640d.js.map",
+    "453.d855a71b.chunk.js.map": "/datathonGlowupAI/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.767c6437.css",
+    "static/js/main.f3f4640d.js"
+  ]
+}
