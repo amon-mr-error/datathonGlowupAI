@@ -57,6 +57,6 @@ The backend is built using the MERN stack (MongoDB, Express, React, Node.js). It
 
 ---
 
-You can view the live version of the frontend here: [Datathon Glowup AI Frontend](https://amon-mr-error.github.io/datathonGlowupAI/)
+You can view the live version of the frontend here: [Datathon Glowup AI Frontend](https://amon-mr-error.github.io/datathonGlowupAI/) (Backend Features Not Available including Analytics Features)
 
 
